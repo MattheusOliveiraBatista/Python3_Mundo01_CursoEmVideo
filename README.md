@@ -1,0 +1,1 @@
+# Estudo_Python3_Mundo01_CursoEmVideo
